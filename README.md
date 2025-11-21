@@ -92,11 +92,7 @@ title('Frequency Response of FIR LPF using Rectangular Window');
 
 <img width="841" height="628" alt="image" src="https://github.com/user-attachments/assets/f7f7da7b-291b-4334-8ff0-489ae27d6411" />
 
-<img width="841" height="628" alt="image" src="https://github.com/user-attachments/assets/8c6a4a46-8671-48f6-b33d-00052aff9f2a" />
-
 <img width="691" height="576" alt="image" src="https://github.com/user-attachments/assets/c3061456-07d3-4089-b525-296518c6656b" />
-
-<img width="691" height="576" alt="image" src="https://github.com/user-attachments/assets/4b27cf64-9f57-4a40-8bab-f87ccb275108" />
 
 # RESULT
 The design of low pass fir digital filter is successfully completed using scilab
